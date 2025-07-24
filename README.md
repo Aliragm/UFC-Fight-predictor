@@ -18,8 +18,8 @@ Este projeto utiliza machine learning para prever o vencedor de uma luta de MMA 
 
 | Modelo         | Acurácia |
 |----------------|----------|
-| Random Forest  | ~81%     |
-| MLP (Rede Neural) | ~73%  |
+| Random Forest  | ~61%     |
+| MLP (Rede Neural) | ~61%  |
 
 ## 📁 Requisitos
 
